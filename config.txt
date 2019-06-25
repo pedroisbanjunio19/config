@@ -1,0 +1,5 @@
+npm config set proxy http://proxy.isban.corp/index.pac
+npm install -g @angular/cli
+npm install -g typescript
+ 
+Ruta del ng en windows -> C:\Users\n170467\AppData\Roaming\npm\ng.cmd
